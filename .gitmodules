@@ -1,0 +1,6 @@
+[submodule "master"]
+	path = master
+	url = https://github.com/marsleka/tp_git.git
+[submodule "tp_git"]
+	path = tp_git
+	url = https://github.com/marsleka/tp_git.git
